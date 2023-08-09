@@ -1,5 +1,5 @@
 # cifar100_gan
-triplegan and transfer learning by resenet101
+triplegan and feature extraction using resenet101
 
 Python 3
 install keras, tensorflow, tensorflow-gpu, and scipy.
